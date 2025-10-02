@@ -138,6 +138,10 @@ Ideal for:
 ## 📝 Screenshots 
 
 
+<img width="1305" height="957" alt="Image" src="https://github.com/user-attachments/assets/d4cd7804-01da-4e73-a6fe-f9242869d44c" />
+<img width="1916" height="939" alt="Image" src="https://github.com/user-attachments/assets/2595134b-2124-407e-a312-66e3bb19cee9" />
+<img width="1910" height="955" alt="Image" src="https://github.com/user-attachments/assets/15800e79-7d5a-4062-a0fb-1ca401126730" />
+<img width="1910" height="944" alt="Image" src="https://github.com/user-attachments/assets/4b388793-44ca-4bd9-8360-aa7d94b18fc3" />
 
 ---
 ✨ Built with passion for full-stack learning ✨
