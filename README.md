@@ -1,3 +1,19 @@
+## REAL TIME COLLABORATIVE-TEXT-EDITOR
+
+COMPANY : CODTECH IT SOLUTIONS
+
+NAME : RAKHI KUMARI
+
+INTERN ID : CT04DY2148
+
+DOMAIN : FULL STACK DEVELOPMENT
+
+DURATION : 4 WEEKS
+
+MENTOR : NEELA SANTOSH
+
+
+
 # Real-Time Collaborative Text Editor (with MongoDB)
 
 A complete full-stack project that provides a **real-time collaborative text editor**, similar to Google Docs. 
